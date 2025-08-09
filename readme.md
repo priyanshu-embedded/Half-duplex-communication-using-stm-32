@@ -1,4 +1,3 @@
-==========================================================
 STM32 Half-Duplex UART LED Control Between Two Boards
 ==========================================================
 
@@ -107,13 +106,6 @@ HOW TO USE
    - Observe PA4 LED on Board A blink after transmission.
    - Observe PA6 LED on Board B blink after reception.
 
-----------------------------------------------------------
-FOLDER STRUCTURE
-----------------------------------------------------------
-/Core/Src/main.c          -> Main application code
-/Core/Inc/main.h          -> Header definitions
-/Drivers/...              -> HAL driver files
-README.txt                -> This documentation
 
 ----------------------------------------------------------
 LICENSE
@@ -122,3 +114,4 @@ This code is provided AS-IS without warranty.
 Refer to the LICENSE file for terms if applicable.
 
 ==========================================================
+
